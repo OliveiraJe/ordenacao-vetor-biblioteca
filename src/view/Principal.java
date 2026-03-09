@@ -12,7 +12,6 @@ public class Principal {
 		int[] vet2 = {44, 43, 42, 41, 40, 39, 38};
 		int[] vet3 = {101, 102, 103, 125, 124, 123, 104, 105, 106, 122};
         
-        
         BubbleSort.sort(vet1); 
         BubbleSort.sort(vet2); 
         MergeSort.sort(vet3);
